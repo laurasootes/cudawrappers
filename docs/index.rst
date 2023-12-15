@@ -13,3 +13,5 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`search`
+
+Lumache has its documentation hosted on Read the Docs.
